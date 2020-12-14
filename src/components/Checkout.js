@@ -1,4 +1,5 @@
 import React from "react";
+import FlipMove from "react-flip-move";
 import Subtotal from "./Subtotal";
 import "../style/Checkout.css";
 import CheckoutProduct from "./CheckoutProduct";

@@ -1,4 +1,5 @@
 import React from "react";
+
 import "../style/CheckoutProduct.css";
 import StarIcon from "@material-ui/icons/Star";
 import { useStateValue } from "../context/StateProvider";
